@@ -1,8 +1,8 @@
 # GBinsta Theme
 ***
-This is just a simple (Or somewhat simple 😆. I'm hoping this will help) theme for Gbinsta apk. This is of course editable if you know XML. But it can also be more easily edited in the app itself (I suggest editing in the app. I will tell you how in the "More Section" of this tutorial.). 
+This is just a simple (Or somewhat simple 😆. I'm hoping this tutorial will help) theme for Gbinsta apk. This is of course editable if you know XML. But it can also be more easily edited in the app itself (I suggest editing in the app. I will tell you how in the "More Section" of this tutorial.). 
 ***
-* Ok so first you need to download the XML file by just clicking on the big green download button A. Then when you do just save it. 
+* Ok so first you need to download the XML file by just clicking on the big green "download" button A. Then when you do just save it. 
 
 * * _**If you don't want to allow the installation of unknown sources (Apps) then STAWP ✋ here .**_
 
@@ -15,6 +15,6 @@ This is just a simple (Or somewhat simple 😆. I'm hoping this will help) theme
 * At this point you should have downloaded the XML file on this repository and saved it to your phone.
 
 
-[![Gbinsta](https://raw.githubusercontent.com/JhettHeliks/GbInstagram-MaterialDOTpurple/master/button.png)](https://gbinsta.com/)
+[![Gbinsta](https://raw.githubusercontent.com/JhettHeliks/ResourcesDotIo/master/button.png?token=Afe-1G4AlXRggBBFY-Sq253aI3s6o29pks5cOnb8wA%3D%3D)](https://gbinsta.com/)
 
-[![Gbinsta](https://raw.githubusercontent.com/JhettHeliks/GbInstagram-MaterialDOTpurple/master/greenbutton.png)](https://github.com/JhettHeliks/GbInstagram-MaterialDOTpurple/archive/master.zip)
+[![Gbinsta](https://raw.githubusercontent.com/JhettHeliks/ResourcesDotIo/master/greenbutton.png?token=Afe-1G-NNDLSrZG3cH_dCCr6UxNx3--yks5cOncAwA%3D%3D)](https://github.com/JhettHeliks/GbInstagram-MaterialDOTpurple/archive/master.zip)
