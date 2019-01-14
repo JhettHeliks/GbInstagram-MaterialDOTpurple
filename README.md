@@ -2,7 +2,7 @@
 ***
 This is just a simple (Or somewhat simple 😆. I'm hoping this tutorial will help) theme for Gbinsta apk. This is of course editable if you know XML. But it can also be more easily edited in the app itself (I suggest editing in the app. I will tell you how in the "More Section" of this tutorial.). 
 ***
-* Ok so first you need to download the XML file and the Gbinsta app by just clicking on the big green and blue "download" buttons and saving it.
+* Ok so first you need to download the XML file and the Gbinsta app by just clicking on the big green and blue "Start" buttons (to "Start" this process haha) and saving it.
 
 * * _**If you don't want to allow the installation of unknown sources (Apps) then STAWP ✋ here, and just exit this tab.**_
 
@@ -23,6 +23,6 @@ _I hope this is making sense so far_
 * At this point you should have downloaded the XML file on this repository and saved it to your phone.
 
 
-[![Gbinsta](https://goo.gl/nfvEZ7)](http://gbinsta.apkvalley.xyz/GBInsta/GBInsta.apk)
+[![Gbinsta](https://raw.githubusercontent.com/JhettHeliks/ResourcesDotIo/master/Ripple.gif)](http://gbinsta.apkvalley.xyz/GBInsta/GBInsta.apk)
 
 [![Gbinsta](https://goo.gl/imC1KY)](https://github.com/JhettHeliks/GbInstagram-MaterialDOTpurple/archive/master.zip)
